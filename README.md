@@ -6,6 +6,8 @@ View original requirement here: <https://github.com/Pay-Baymax/FullStackEngineer
 
 ![image](https://user-images.githubusercontent.com/1732164/86991839-a42e1d80-c1d2-11ea-8467-18afce254e71.png)
 
+![image](https://user-images.githubusercontent.com/1732164/86991966-f7a06b80-c1d2-11ea-806a-14c1e5502bfc.png)
+
 ### Source Code
 
 - Server side API: <https://github.com/midare/paypay-perf-challenge-api>
